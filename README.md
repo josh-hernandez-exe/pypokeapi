@@ -78,14 +78,6 @@ You can also clear the in memory cache.
 pypokeapi.clear_cache()
 ```
 
-    clear_cache,
-    save_cache,
-    set_cache_write_frequency,
-    set_defualt_cashe_location,
-    set_protocol,
-    update_cache,
-    url_request,
-
 ## Notes
 
 Caching is based of the uri's. For example a key in the cashe would be `api/v2/pokemon/1/`
